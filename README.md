@@ -1,4 +1,9 @@
-# Predicting Properties of Quantum Many-Body Systems
+Forked from momohuang/predicting-quantum-properties
+## Overview of modifications:
+- Added fully compatible Julia version of momohuang/predicting-quantum-properties 
+(= python version + entanglement prediction option from C++ version)
+
+## Predicting Properties of Quantum Many-Body Systems
 
 This open source implementation allows the prediction of many properties: few-body observables, two-point correlation functions, subsystem entanglement entropy, from very few measurements.
 
