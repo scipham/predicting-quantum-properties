@@ -1,7 +1,7 @@
 Forked from momohuang/predicting-quantum-properties
 ## Overview of modifications:
 - Added fully compatible Julia version of momohuang/predicting-quantum-properties 
-(= python version + entanglement prediction option from C++ version)
+(= python version ~~+ entanglement prediction option from C++ version~~ )
 
 ## Predicting Properties of Quantum Many-Body Systems
 
